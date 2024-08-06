@@ -19,11 +19,11 @@ Parkinson’s disease is a neurological disorder for which the symptoms worsen o
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/parkinsons-disease-diagnosis.git
+    git clone https://github.com/your-repo/Machine-Learning.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd parkinsons-disease-diagnosis
+    cd Machine-Learning
     ```
 3. Open the project in MATLAB.
 
